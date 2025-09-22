@@ -1,0 +1,3 @@
+C:/Mau/BasuraDeTecPro/prueba4/cmake-build-debug/CMakeFiles/prueba4.dir
+C:/Mau/BasuraDeTecPro/prueba4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Mau/BasuraDeTecPro/prueba4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
