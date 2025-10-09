@@ -1,0 +1,3 @@
+C:/Mau/TecPro/archivos_preParcial_mio/cmake-build-debug/CMakeFiles/archivos_preParcial_mio.dir
+C:/Mau/TecPro/archivos_preParcial_mio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Mau/TecPro/archivos_preParcial_mio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
